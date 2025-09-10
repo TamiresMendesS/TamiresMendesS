@@ -10,7 +10,6 @@
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="70">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="70">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="70">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="70">
 </div>
 
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=TamiresMendesS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="150" alt="stats graph" /> -->
