@@ -6,7 +6,7 @@
 
 ## 💻 Languages and technologies I'm learning
 
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="70">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="70">
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="70">
@@ -17,7 +17,6 @@
 ## 📈 GitHub Status
 
 <div align="center">  
-  <img src="https://streak-stats.demolab.com?user=TamiresMendesS&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=TamiresMendesS&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=TamiresMendesS&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
