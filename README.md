@@ -45,7 +45,7 @@ I'm Tamires, an iOS developer at <b>Apple Developer Academy | Mackenzie</b>.
 - <b>Vivacidade</b> - iOS application to register memories on audios in real life | Developed in Swift, UIKit and ARKit · [App Store](https://apps.apple.com/br/app/vivacidade/id6761855371)<br>
 - <b>Jardino</b> - iOS application to find your ideal plant | Developed in Swift, SwiftUI and ARKit · [App Store](https://apps.apple.com/br/app/jardino/id6773830137)<br>
 
-### 📂 Other projects
+### 📂 Other Projects
 
 - <b>TRUE Cat Tale</b> - iOS application to teach basic programming logic | Developed in Swift and SwiftUI<br>
 - <b>Eu, Maia</b> - iOS game under development... 🚧 
