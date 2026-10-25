@@ -10,7 +10,7 @@
 
 ### 🌱 About me
 
-I'm Tamires, an iOS developer at <b>Apple Developer Academy | Mackenzie<b>. 
+I'm Tamires, an iOS developer at <b>Apple Developer Academy | Mackenzie</b>. 
 
 - IOS & MacOS developer<br>
 - Learning new languages<br>
@@ -37,6 +37,18 @@ I'm Tamires, an iOS developer at <b>Apple Developer Academy | Mackenzie<b>.
 **Swift Frameworks**
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-111827?style=for-the-badge) ![UIKit](https://img.shields.io/badge/UIKit-111827?style=for-the-badge) ![Core Data](https://img.shields.io/badge/Core%20Data-111827?style=for-the-badge) ![SwiftData](https://img.shields.io/badge/SwiftData-111827?style=for-the-badge) ![AVFoundation](https://img.shields.io/badge/AVFoundation-111827?style=for-the-badge)
+
+### 📁 Featured Projects
+
+- <b>Bookle</b> - iOS application to track books read and write reviews | Developed in Swift, SwiftUI and Core Data · [App Store](https://apps.apple.com/br/app/bookle/id6749082419)<br>
+- <b>tacto: música em braille</b> - iOS application to teach musical notation in braille, focused on accessibility | Developed in Swift and SwiftUI · [App Store](https://apps.apple.com/br/app/tacto-m%C3%BAsica-em-braille/id6754394391)<br>
+- <b>Vivacidade</b> - iOS application to register memories on audios in real life | Developed in Swift, UIKit and ARKit · [App Store](https://apps.apple.com/br/app/vivacidade/id6761855371)<br>
+- <b>Jardino</b> - iOS application to find your ideal plant | Developed in Swift, SwiftUI and ARKit · [App Store](https://apps.apple.com/br/app/jardino/id6773830137)<br>
+
+### 📂 Other projects
+
+- <b>TRUE Cat Tale</b> - iOS application to teach basic programming logic | Developed in Swift and SwiftUI<br>
+- <b>Eu, Maia</b> - iOS game under development... 🚧 
 
 ---
 
